@@ -1,0 +1,15 @@
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\bin\Debug\net6.0\Prog01.exe
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\bin\Debug\net6.0\Prog01.deps.json
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\bin\Debug\net6.0\Prog01.runtimeconfig.json
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\bin\Debug\net6.0\Prog01.dll
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\bin\Debug\net6.0\Prog01.pdb
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\Prog01.csproj.AssemblyReference.cache
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\Prog01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\Prog01.AssemblyInfoInputs.cache
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\Prog01.AssemblyInfo.cs
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\Prog01.csproj.CoreCompileInputs.cache
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\Prog01.dll
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\refint\Prog01.dll
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\Prog01.pdb
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\Prog01.genruntimeconfig.cache
+C:\Users\Юнистрой\Desktop\семинар1\examples\Prog01\obj\Debug\net6.0\ref\Prog01.dll
